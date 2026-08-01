@@ -11,7 +11,7 @@ Created as a clean boilerplate and reference template for implementing offline-f
 * **Architecture:** DAO, Entities, Coroutines/Flow
 * **Min SDK:** 21
 
-## 💻 Quick Setup
+## Quick Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/m-lomba/room-database-example.git
